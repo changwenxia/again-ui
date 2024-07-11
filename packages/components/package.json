@@ -1,0 +1,26 @@
+{
+  "name": "@vmkt/shuge-ui",
+  "private": false,
+  "version": "0.0.1",
+  "type": "module",
+  "main": "./dist/ui/lib/index.js",
+  "module": "./dist/ui/es/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.7.6",
+    "unplugin-auto-import": "^0.17.6",
+    "unplugin-element-plus": "^0.8.0",
+    "unplugin-vue-components": "^0.27.2",
+    "vue": "^3.4.29"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "sass": "^1.77.7",
+    "vite": "^5.3.1",
+    "vite-plugin-vue-setup-extend": "^0.4.0"
+  }
+}

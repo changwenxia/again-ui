@@ -1,0 +1,107 @@
+.
+├── README.md
+├── example
+│   ├── README.md
+│   ├── index.html
+│   ├── jsconfig.json
+│   ├── package.json
+│   ├── public
+│   │   └── favicon.ico
+│   ├── src
+│   │   ├── App.vue
+│   │   ├── assets
+│   │   │   ├── base.css
+│   │   │   ├── logo.svg
+│   │   │   └── main.css
+│   │   ├── components
+│   │   │   ├── HelloWorld.vue
+│   │   │   ├── TheWelcome.vue
+│   │   │   ├── WelcomeItem.vue
+│   │   │   └── icons
+│   │   │       ├── IconCommunity.vue
+│   │   │       ├── IconDocumentation.vue
+│   │   │       ├── IconEcosystem.vue
+│   │   │       ├── IconSupport.vue
+│   │   │       └── IconTooling.vue
+│   │   ├── main.js
+│   │   ├── router
+│   │   │   └── index.js
+│   │   ├── stores
+│   │   │   └── counter.js
+│   │   └── views
+│   │       ├── AboutView.vue
+│   │       └── HomeView.vue
+│   └── vite.config.js
+├── list.txt
+├── package.json
+├── packages
+│   └── components
+│       ├── README.md
+│       ├── dist
+│       │   └── ui
+│       │       ├── es
+│       │       │   ├── _virtual
+│       │       │   │   └── _plugin-vue_export-helper.js
+│       │       │   ├── index.js
+│       │       │   ├── src
+│       │       │   │   ├── button
+│       │       │   │   │   ├── index.js
+│       │       │   │   │   └── src
+│       │       │   │   │       └── index.vue.js
+│       │       │   │   ├── index.js
+│       │       │   │   ├── input
+│       │       │   │   │   ├── index.js
+│       │       │   │   │   └── src
+│       │       │   │   │       └── index.vue.js
+│       │       │   │   └── utils
+│       │       │   │       └── withInstall.js
+│       │       │   ├── style.css
+│       │       │   └── vite.svg
+│       │       └── lib
+│       │           ├── _virtual
+│       │           │   └── _plugin-vue_export-helper.js
+│       │           ├── index.js
+│       │           ├── src
+│       │           │   ├── button
+│       │           │   │   ├── index.js
+│       │           │   │   └── src
+│       │           │   │       └── index.vue.js
+│       │           │   ├── index.js
+│       │           │   ├── input
+│       │           │   │   ├── index.js
+│       │           │   │   └── src
+│       │           │   │       └── index.vue.js
+│       │           │   └── utils
+│       │           │       └── withInstall.js
+│       │           ├── style.css
+│       │           └── vite.svg
+│       ├── index.html
+│       ├── index.js
+│       ├── package.json
+│       ├── public
+│       │   └── vite.svg
+│       ├── src
+│       │   ├── App.vue
+│       │   ├── assets
+│       │   │   └── vue.svg
+│       │   ├── button
+│       │   │   ├── index.js
+│       │   │   └── src
+│       │   │       └── index.vue
+│       │   ├── components
+│       │   │   └── HelloWorld.vue
+│       │   ├── index.js
+│       │   ├── input
+│       │   │   ├── index.js
+│       │   │   └── src
+│       │   │       └── index.vue
+│       │   ├── main.js
+│       │   ├── style.css
+│       │   └── utils
+│       │       └── withInstall.js
+│       └── vite.config.js
+├── pnpm-lock.yaml
+├── pnpm-workspace.yaml
+└── tree.text
+
+39 directories, 66 files

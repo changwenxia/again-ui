@@ -1,0 +1,14 @@
+{
+  "name": "again-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm --filter \"@vmkt/shuge-ui\" build",
+    "dev": "pnpm build && pnpm --filter \"example\" dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
